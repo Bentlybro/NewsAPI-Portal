@@ -1,0 +1,19 @@
+
+/* Basic styling for the news portal */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+#news-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.news-post {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
